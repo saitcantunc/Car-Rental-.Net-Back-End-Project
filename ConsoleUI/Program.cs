@@ -19,7 +19,7 @@ namespace ConsoleUI
             //brandManager.Add(new Brand { BrandId = 4, BrandName = "wo wo" });
 
             //carManager.Add(new Car { CarId = 1, BrandId = 1, ColorId = 1, DailyPrice = 400, Description = "bmw", ModelYear = "2020" });
-            //carManager.Add(new Car { CarId = 2, BrandId = 2, ColorId = 2, DailyPrice = 450, Description = "audi", ModelYear = "2014" });
+            carManager.Add(new Car { CarId = 2, BrandId = 2, ColorId = 2, DailyPrice = 450, Description = "audi", ModelYear = "2014" });
             //carManager.Add(new Car { CarId = 3, BrandId = 3, ColorId = 3, DailyPrice = 755, Description = "volkswagen", ModelYear = "2010" });
             //carManager.Add(new Car { CarId = 4, BrandId = 4, ColorId = 4, DailyPrice = 7000, Description = "bmw2", ModelYear = "2000" });
             //carManager.Update(new Car { CarId = 4, BrandId = 2, ColorId = 4, DailyPrice = 7000, Description = "bmw3", ModelYear = "2000" });
