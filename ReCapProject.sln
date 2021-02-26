@@ -13,7 +13,16 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleUI", "ConsoleUI\Cons
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core", "Core\Core.csproj", "{49D23A4C-2383-4E4B-BDF2-0DC44FAF0F4E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPI", "WebAPI\WebAPI.csproj", "{51A221CA-B725-4E6B-87F4-3348385FC543}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI", "WebAPI\WebAPI.csproj", "{51A221CA-B725-4E6B-87F4-3348385FC543}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{32E53E11-F660-4345-A132-977704A11F38}"
+	ProjectSection(SolutionItems) = preProject
+		Images\brad-starkey-R_JC5qD6oFw-unsplash.jpg = Images\brad-starkey-R_JC5qD6oFw-unsplash.jpg
+		Images\default.jpg = Images\default.jpg
+		Images\martin-zdrazil-uTHiD3mtRXE-unsplash.jpg = Images\martin-zdrazil-uTHiD3mtRXE-unsplash.jpg
+		Images\reynier-carl-D9wUdokXcd8-unsplash.jpg = Images\reynier-carl-D9wUdokXcd8-unsplash.jpg
+		Images\rick-gebhardt-BbFBVUGIO74-unsplash.jpg = Images\rick-gebhardt-BbFBVUGIO74-unsplash.jpg
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
